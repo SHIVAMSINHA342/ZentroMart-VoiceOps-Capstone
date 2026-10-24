@@ -1,0 +1,14 @@
+{
+  "evaluation_file": "/content/zentromart_project/Capstone_Project_Dataset_FTTT_2026/sample_outputs/final_answer_evaluation.csv",
+  "total_evaluated_questions": 52,
+  "nonempty_final_answers": 52,
+  "empty_final_answers": 0,
+  "answer_completeness_percent": 100.0,
+  "answerable_questions_in_source_dataset": 47,
+  "retrieval_evaluation_rows_in_memory": 52,
+  "evaluation_limitations": [
+    "Nonempty answers do not prove factual correctness.",
+    "Retrieval evidence coverage is not the same as answer accuracy.",
+    "Live Gnani STT/TTS has not been validated by this report."
+  ]
+}

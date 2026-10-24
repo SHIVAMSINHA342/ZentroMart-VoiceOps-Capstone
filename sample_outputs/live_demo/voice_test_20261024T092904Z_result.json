@@ -1,0 +1,23 @@
+{
+  "input_audio": "/content/voice_test.mp3",
+  "transcript": "hello i want to check the return policy for my wireless earbuds",
+  "answer": "The current return window for electronics and accessories is 7 calendar days from delivery under the policy effective 1 August 2026. Electronics delivered before that date retain the previous 10-day window.",
+  "status": "answered",
+  "evidence_ids": [
+    "TRB-1",
+    "FAQ-2",
+    "RET-2",
+    "pol_cancellations.md#1",
+    "pol_delivery_shipping.md#1",
+    "pol_refunds.md#1",
+    "pol_returns_v4.md#1",
+    "PLS-2",
+    "RET-1",
+    "RET-3",
+    "RET-7",
+    "RVP-1"
+  ],
+  "output_audio": "/content/zentromart_project/Capstone_Project_Dataset_FTTT_2026/sample_outputs/live_demo/voice_test_20261024T092904Z_reply.wav",
+  "speech_provider": "Gnani",
+  "language_code": "en-IN"
+}
